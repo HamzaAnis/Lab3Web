@@ -1,0 +1,9 @@
+c:\users\hamza\documents\visual studio 2015\Projects\Lab3Web\Lab3Web\bin\Debug\Lab3Web.exe.config
+c:\users\hamza\documents\visual studio 2015\Projects\Lab3Web\Lab3Web\bin\Debug\Lab3Web.exe
+c:\users\hamza\documents\visual studio 2015\Projects\Lab3Web\Lab3Web\bin\Debug\Lab3Web.pdb
+c:\users\hamza\documents\visual studio 2015\Projects\Lab3Web\Lab3Web\obj\Debug\Lab3Web.csprojResolveAssemblyReference.cache
+c:\users\hamza\documents\visual studio 2015\Projects\Lab3Web\Lab3Web\obj\Debug\Lab3Web.Form1.resources
+c:\users\hamza\documents\visual studio 2015\Projects\Lab3Web\Lab3Web\obj\Debug\Lab3Web.Properties.Resources.resources
+c:\users\hamza\documents\visual studio 2015\Projects\Lab3Web\Lab3Web\obj\Debug\Lab3Web.csproj.GenerateResource.Cache
+c:\users\hamza\documents\visual studio 2015\Projects\Lab3Web\Lab3Web\obj\Debug\Lab3Web.exe
+c:\users\hamza\documents\visual studio 2015\Projects\Lab3Web\Lab3Web\obj\Debug\Lab3Web.pdb
